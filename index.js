@@ -1,3 +1,5 @@
+//he's making his own bot now so I won't be updating this
+
 const tmi = require('tmi.js')
 
 const options = {
